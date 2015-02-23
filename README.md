@@ -3,6 +3,8 @@
 The repository contains the following files:
  - getData.R -> the script that fetches the zip file with the original data
  - run_analysis.R -> the script which, when sourced in the same directory with the original data (in the form of the 'getdata-projectfiles-UCI HAR Dataset.zip' file) generates the tidy data (in the form of the 'dat.means.txt' file)
+ - CodeBook.md -> the code book
+ - README.md -> this file
 
 To generate the tidy data, please:
  1. source getData.R or download the original data manually in the 'getdata-projectfiles-UCI HAR Dataset.zip' file
